@@ -4,6 +4,7 @@
 # Then it updates each html for each table and then it can be 
 # uploaded back to confluence.
 ##################################################################
+pip install -y atlassian-python-api
 
 from atlassian import Confluence
 import panda as pd
