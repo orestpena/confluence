@@ -55,7 +55,7 @@ conf = Confluence(url=conf_site, username=conf_user, password=conf_pass, verify_
 
 
 # new page content
-page_content = newHTML
+page_content = df
 
 
 # update page with new content
